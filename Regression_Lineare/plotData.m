@@ -10,11 +10,7 @@ figure; % open a new figure window
 %               "figure" and "plot" commands. Set the axes labels using
 %               the "xlabel" and "ylabel" commands. Assume the 
 %               population and revenue data have been passed in
-%               as the x and y arguments of this function.
-%
-% Hint: You can use the 'rx' option with plot to have the markers
-%       appear as red crosses. Furthermore, you can make the
-%       markers larger by using plot(..., 'rx', 'MarkerSize', 10);
+%               as the x and y arguments of this functions
 
 plot(x, y, 'rx', 'MarkerSize', 10); % Plot the data
 ylabel('Profit in $10,000s'); % Set the yaxis label
