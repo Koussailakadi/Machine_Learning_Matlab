@@ -10,10 +10,10 @@ Après l'optimisation et l'entraitement, on a obtenu les résultats suivants:
 ![alt text](https://github.com/Koussailakadi/Machine_Learning_Matlab/blob/master/Regression_Lineare/cap1.PNG?raw=true)
 
 
-![alt text](https://github.com/Koussailakadi/Machine_Learning_Matlab/edit/master/Regression_Lineare/cap2.PNG?raw=true)
+![alt text](https://github.com/Koussailakadi/Machine_Learning_Matlab/blob/master/Regression_Lineare/cap2.PNG?raw=true)
 
 
-![alt text](https://github.com/Koussailakadi/Machine_Learning_Matlab/edit/master/Regression_Lineare/cap3.PNG?raw=true)
+![alt text](https://github.com/Koussailakadi/Machine_Learning_Matlab/blob/master/Regression_Lineare/cap3.PNG?raw=true)
 
 
-![alt text](https://github.com/Koussailakadi/Machine_Learning_Matlab/edit/master/Regression_Lineare/cap4.PNG?raw=true)
+![alt text](https://github.com/Koussailakadi/Machine_Learning_Matlab/blob/master/Regression_Lineare/cap4.PNG?raw=true)
