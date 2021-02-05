@@ -1,7 +1,7 @@
 MAchine Learning en Matlab
 
 La régression linéaire: 
-le but est d'entrainer notre algorithme pour avoir une bonne estimation pour les prix de maison, en prenant un dataset 
+le but est d'entrainer notre algorithme pour avoir une bonne estimation des prix de maisons, en prenant un dataset 
 X: les surfces des maisons en ft carré 
 y: les prix en dollars
 
