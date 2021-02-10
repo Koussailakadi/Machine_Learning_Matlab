@@ -1,4 +1,4 @@
-#la régression logistique:
+# la régression logistique:
 est un modèle de classification 
 
 
