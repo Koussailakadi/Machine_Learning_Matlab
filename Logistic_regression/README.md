@@ -7,7 +7,7 @@ selon le cas de l'étude.
 
 Dans cette partie de machine_learning, on a résolut 2 cas de régression logistique 
 
-## 1. déterminer si un élève sera addmit on consultant ses notes obtenues dans 2 examens, 
+## 1. déterminer si un élève sera addmit en consultant ses notes obtenues dans 2 examens, 
 avec une hypotthèse sigmoid (fonction sigmoid), 
 
 ![alt text](https://github.com/Koussailakadi/Machine_Learning_Matlab/blob/master/Logistic_regression/cap1.PNG?raw=true)
