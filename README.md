@@ -1,4 +1,7 @@
 # Machine_Learning_Matlab
+formation:
+COURSERA, par Andrew Ng
+Stanford University, USA
 
 
 # 1 .La régression linéaire: 
