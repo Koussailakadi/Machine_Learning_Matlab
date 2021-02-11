@@ -67,7 +67,9 @@ en augmentant top le paramètre de régularisation lambda, on risque de perdre d
 
 
 
-# multiclass classification using neural network: 
+
+
+# 3. multiclass classification using neural network: 
 
 en utilisatn un réseau de neurones artificieles 
 
