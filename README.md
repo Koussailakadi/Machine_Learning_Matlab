@@ -34,6 +34,7 @@ selon le cas de l'étude.
 
 Dans cette partie de machine_learning, on a résolut 2 cas de régression logistique 
 
+
 ## - Problème 1: déterminer si un élève sera addmit en consultant ses notes obtenues dans 2 examens:
 Dans cette partie du problème, on construit un modèle de régression logistique pour prédire si un étudiant sera admis dans une université. Supposons que on ait l'administrateur d'un département universitaire et qu'on veut déterminer les chances d'admission de chaque candidat en fonction de ses résultats à deux examens. on dispose de données historiques des candidats précédents que on peut utiliser comme ensemble de formation pour la régression logistique. Pour chaque exemple de formation, on dispose des résultats du candidat à deux examens et de la décision d'admission.
 
@@ -63,4 +64,30 @@ en augmentant top le paramètre de régularisation lambda, on risque de perdre d
 ![alt text](https://github.com/Koussailakadi/Machine_Learning_Matlab/blob/master/Logistic_regression/cap4.PNG?raw=true)
 
 ![alt text](https://github.com/Koussailakadi/Machine_Learning_Matlab/blob/master/Logistic_regression/cap5.PNG?raw=true)
+
+
+
+# multiclass classification using neural network: 
+
+en utilisatn un réseau de neurones artificieles 
+
+## quelques exemples de prédiction 
+
+
+![alt text](https://github.com/Koussailakadi/Machine_Learning_Matlab/blob/master/Create%20Neural_Networks_multiclass_Classification/cap1.PNG?raw=true)
+
+
+![alt text](https://github.com/Koussailakadi/Machine_Learning_Matlab/blob/master/Create%20Neural_Networks_multiclass_Classification/cap2.PNG?raw=true)
+
+
+![alt text](https://github.com/Koussailakadi/Machine_Learning_Matlab/blob/master/Create%20Neural_Networks_multiclass_Classification/cap3.PNG?raw=true)
+
+
+![alt text](https://github.com/Koussailakadi/Machine_Learning_Matlab/blob/master/Create%20Neural_Networks_multiclass_Classification/cap4.PNG?raw=true)
+
+
+![alt text](https://github.com/Koussailakadi/Machine_Learning_Matlab/blob/master/Create%20Neural_Networks_multiclass_Classification/cap5.PNG?raw=true)
+
+
+
 
