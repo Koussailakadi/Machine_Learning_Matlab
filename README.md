@@ -5,6 +5,8 @@ COURSERA, par Andrew Ng
 
 Stanford University, USA
 
+progrès: Semaine 5 /11 
+
 
 # 1 .La régression linéaire: 
 le but est d'entrainer notre algorithme pour avoir une bonne estimation des prix de maisons, en prenant un dataset 
